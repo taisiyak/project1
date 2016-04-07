@@ -1,0 +1,6 @@
+c:\users\taisiya\documents\visual studio 2013\Projects\BreedDogsApp\BreedDogsApp\bin\Debug\BreedDogsApp.exe.config
+c:\users\taisiya\documents\visual studio 2013\Projects\BreedDogsApp\BreedDogsApp\obj\Debug\BreedDogsApp.csprojResolveAssemblyReference.cache
+c:\users\taisiya\documents\visual studio 2013\Projects\BreedDogsApp\BreedDogsApp\bin\Debug\BreedDogsApp.exe
+c:\users\taisiya\documents\visual studio 2013\Projects\BreedDogsApp\BreedDogsApp\bin\Debug\BreedDogsApp.pdb
+c:\users\taisiya\documents\visual studio 2013\Projects\BreedDogsApp\BreedDogsApp\obj\Debug\BreedDogsApp.exe
+c:\users\taisiya\documents\visual studio 2013\Projects\BreedDogsApp\BreedDogsApp\obj\Debug\BreedDogsApp.pdb
